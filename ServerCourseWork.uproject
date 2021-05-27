@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AC0D6CD6-4E47-D327-6E12-DAA4E1A1508C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ServerCourseWork",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
